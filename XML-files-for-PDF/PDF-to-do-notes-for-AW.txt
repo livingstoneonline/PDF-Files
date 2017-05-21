@@ -1,4 +1,3 @@
 1. Try converting all instances of <lb/><milestone/> to <milestone/> to remove the linebreak after table/row issue. See liv_000001_0083 and 0104.
 
-
-4/94
+2. Remove <quote> tag.
