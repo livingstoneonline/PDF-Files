@@ -1,0 +1,3 @@
+In order to get the PDF transformation of liv_000019 and, perhaps, other files to work, the included files must be copied to the following location.
+
+cp /Users/awisnicki2/Desktop/texmf.cnf /usr/local/texlive/texmf-local/web2c/
